@@ -23,7 +23,7 @@ Food recipes api bahasa Indonesia 🇮🇩 build with __Cheerio__ and __Node js_
 
 ### Endpoint Usage
 ---
-**Base Url** : `[https://resep-hari-ini.vercel.app/](https://resep-hari-ini.vercel.app/)`
+**Base Url** : [https://resep-hari-ini.vercel.app/](https://resep-hari-ini.vercel.app/)
 
 | Endpoint | Usage | Example |
 |----------|-------|---------|
